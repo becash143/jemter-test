@@ -1,0 +1,48 @@
+<View>
+  <Labels name="label" toName="text">
+    <Label value="Task1and3and5"/>
+    <Label value="Task2and4and6"/>
+    <Label value="Task3and2and7"/>
+    <Label value="Task4and7and8"/>
+    <Label value="Task5and10and11"/>
+    <Label value="Task6and1and7"/>
+    <Label value="Task7and3and4"/>
+    <Label value="Task8and9and2"/>
+    <Label value="Task9and11and6"/>
+    <Label value="Task10and1and5"/>
+    <Label value="Task11and3and6"/>
+  </Labels>
+  <Relations>   
+    <Relation value="Task1and3and5"/>
+    <Relation value="Task2and4and6"/>
+    <Relation value="Task3and2and7"/>
+    <Relation value="Task4and7and8"/>
+    <Relation value="Task5and10and11"/>
+    <Relation value="Task6and1and7"/>
+    <Relation value="Task7and3and4"/>
+    <Relation value="Task8and9and2"/>
+    <Relation value="Task9and11and6"/>
+    <Relation value="Task10and1and5"/>
+    <Relation value="Task11and3and6"/>
+  </Relations>
+  <Header value="Choice 1"/>
+  <Choices name="C1" toName="text" choice="single" showInLine="true">    
+    <Choice value="Yes"/>    
+    <Choice value="No"/>    
+    <Choice value="Unknown"/>    
+  </Choices>
+  <Header value="Choice 2"/>
+  <Choices name="C2" toName="text" choice="single" showInLine="true">    
+    <Choice value="Yes"/>    
+    <Choice value="No"/>    
+    <Choice value="Unknown"/>    
+  </Choices>
+  <Header value="Choice 3"/>
+  <Choices name="C3" toName="text" choice="single" showInLine="true">    
+    <Choice value="Yes"/>    
+    <Choice value="No"/>    
+    <Choice value="Unknown"/>    
+  </Choices>
+
+  <Text name="text" value="$text"></Text>
+</View>

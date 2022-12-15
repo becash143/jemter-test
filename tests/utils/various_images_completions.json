@@ -1,0 +1,682 @@
+{
+	"kawasaki-disease.png": {
+		"created_username": "admin",
+        "created_ago": "2021-11-30T12:31:26.428Z",
+        "result": [
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 25.346260387811633,
+              "y": 16.43835616438356,
+              "width": 13.434903047091412,
+              "height": 1.8590998043052838,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Disease"
+              ],
+              "text": [
+                "Kawasaki disease."
+              ]
+            },
+            "id": "GKfcSMOk30",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 25.62326869806094,
+              "y": 31.898238747553815,
+              "width": 7.340720221606648,
+              "height": 1.5655577299412915,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Result"
+              ],
+              "text": [
+                "Ad-lib."
+              ]
+            },
+            "id": "vFx4MTohjm",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 28.519564340459866,
+              "y": 37.31470923603192,
+              "width": 4.800322710770472,
+              "height": 1.026225769669327,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Medicine"
+              ],
+              "text": [
+                "Aspirin"
+              ]
+            },
+            "id": "nnrHJikLld",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          }
+        ]
+	},
+	"followup-on-asthma.png": {
+		"created_username": "admin",
+        "created_ago": "2021-11-30T12:32:31.466Z",
+        "result": [
+          {
+            "value": {
+              "choices": [
+                "Negative"
+              ]
+            },
+            "id": "ROvphDGFnx",
+            "from_name": "Diagnosis",
+            "to_name": "image",
+            "type": "choices"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 45.824929407018956,
+              "y": 21.921322690992017,
+              "width": 3.106091165792659,
+              "height": 0.7981755986316992,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Medicine"
+              ],
+              "text": [
+                "PMS"
+              ]
+            },
+            "id": "AsBPmzGMM2",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 22.6704316256555,
+              "y": 47.605473204104904,
+              "width": 2.016942315449778,
+              "height": 0.7696693272519954,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Weight"
+              ],
+              "text": [
+                "151"
+              ]
+            },
+            "id": "-9o1_kCfru",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 7.260992335619201,
+              "y": 79.64652223489168,
+              "width": 7.059298104074223,
+              "height": 0.8266818700114025,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Disease"
+              ],
+              "text": [
+                "Hematuria."
+              ]
+            },
+            "id": "aRpCI-6-FO",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 42.517144009681324,
+              "y": 47.5769669327252,
+              "width": 4.558289632916498,
+              "height": 0.7981755986316992,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Pressure"
+              ],
+              "text": [
+                "110/60."
+              ]
+            },
+            "id": "fTKs65yMEm",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 65.5102864058088,
+              "y": 47.605473204104904,
+              "width": 2.5816861637757156,
+              "height": 0.7696693272519954,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Temperature"
+              ],
+              "text": [
+                "97.1"
+              ]
+            },
+            "id": "XmbTzShmKt",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 35.59556786703601,
+              "y": 38.551859099804304,
+              "width": 9.833795013850418,
+              "height": 0.9784735812133072,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Result"
+              ],
+              "text": [
+                "nonsmoker."
+              ]
+            },
+            "id": "jqiWnhDZvm",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 30.052440500201698,
+              "y": 52.70809578107183,
+              "width": 7.704719645018152,
+              "height": 1.026225769669327,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Organ"
+              ],
+              "text": [
+                "Oropharynx"
+              ]
+            },
+            "id": "PRe_0-rFus",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          }
+        ]
+	},
+	"chronic-sinusitis.png": {
+		"created_username": "admin",
+        "created_ago": "2021-11-30T12:27:15.626Z",
+        "result": [
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 29.36288088642659,
+              "y": 16.34050880626223,
+              "width": 7.894736842105263,
+              "height": 1.9569471624266144,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Age"
+              ],
+              "text": [
+                "50-year-old"
+              ]
+            },
+            "id": "Z-TNE7MjfE",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 82.6622935262132,
+              "y": 19.23395182527602,
+              "width": 11.95613607605759,
+              "height": 1.2740541422048282,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Organ"
+              ],
+              "text": [
+                "paranasal sinuses"
+              ]
+            },
+            "id": "ufx3aN6-Cx",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          }
+        ]	
+	},
+	"asthma.png": {
+		"created_username": "admin",
+        "created_ago": "2021-11-30T12:29:25.209Z",
+        "result": [
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 79.79014910570774,
+              "y": 74.44296465415187,
+              "width": 10.419872781368632,
+              "height": 1.2740541422048308,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Result"
+              ],
+              "text": [
+                "viral syndrome,"
+              ]
+            },
+            "id": "6l-mgj4eO5",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 32.67446551028641,
+              "y": 43.757126567844935,
+              "width": 2.5413473174667205,
+              "height": 0.9407069555302165,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Pulse"
+              ],
+              "text": [
+                "105,"
+              ]
+            },
+            "id": "7LXR3U36wM",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 25.090762404195235,
+              "y": 43.757126567844935,
+              "width": 3.106091165792659,
+              "height": 0.9407069555302165,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Temperature"
+              ],
+              "text": [
+                "98.7,"
+              ]
+            },
+            "id": "86aS7PjJxx",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 56.958450988301735,
+              "y": 43.72862029646522,
+              "width": 4.598628479225494,
+              "height": 0.9692132269099203,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Pressure"
+              ],
+              "text": [
+                "112/65,"
+              ]
+            },
+            "id": "ZaueGG0-d2",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "value": {
+              "choices": [
+                "Positive"
+              ]
+            },
+            "id": "0aGAfkLpVC",
+            "from_name": "Diagnosis",
+            "to_name": "image",
+            "type": "choices"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 25.494150867285196,
+              "y": 14.224629418472064,
+              "width": 6.615570794675272,
+              "height": 1.026225769669327,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Age"
+              ],
+              "text": [
+                "5-year-old"
+              ]
+            },
+            "id": "Uc9yMqgqiP",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          }
+        ]
+	},
+	"evaluation-of-allergies.png": {
+		"created_username": "admin",
+        "created_ago": "2021-11-30T12:23:19.822Z",
+        "result": [
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 15.512465373961218,
+              "y": 13.796477495107629,
+              "width": 7.617728531855955,
+              "height": 1.467710371819961,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Age"
+              ],
+              "text": [
+                "55-year-old"
+              ]
+            },
+            "id": "K6HjhIsISh",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 14.239612747075432,
+              "y": 25.769669327251993,
+              "width": 10.44776119402985,
+              "height": 1.026225769669327,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Disease"
+              ],
+              "text": [
+                "hypothyroidism."
+              ]
+            },
+            "id": "EkLF1SHbav",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "value": {
+              "choices": [
+                "Unknown"
+              ]
+            },
+            "id": "5z7cFMMy6w",
+            "from_name": "Diagnosis",
+            "to_name": "image",
+            "type": "choices"
+          }
+        ]
+	},
+	"allergic-rhinitis.png": {
+		"created_username": "admin",
+        "created_ago": "2021-11-30T12:24:45.884Z",
+        "result": [
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 15.167406212182328,
+              "y": 39.908779931584945,
+              "width": 4.114562323517547,
+              "height": 0.9977194982896237,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Medicine"
+              ],
+              "text": [
+                "Zyrtec"
+              ]
+            },
+            "id": "MMPxrN3uKC",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 18.00554016620499,
+              "y": 27.984344422700588,
+              "width": 8.033240997229917,
+              "height": 1.761252446183953,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Weight"
+              ],
+              "text": [
+                "130 pounds"
+              ]
+            },
+            "id": "3TLEtQyKfI",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "value": {
+              "choices": [
+                "Negative"
+              ]
+            },
+            "id": "-fMn3GnzOi",
+            "from_name": "Diagnosis",
+            "to_name": "image",
+            "type": "choices"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 5.6474384832593785,
+              "y": 33.49486887115165,
+              "width": 4.316256555062525,
+              "height": 0.9977194982896237,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Organ"
+              ],
+              "text": [
+                "Lungs:"
+              ]
+            },
+            "id": "fZshgG48IK",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 39.088342073416705,
+              "y": 28.335233751425314,
+              "width": 4.558289632916498,
+              "height": 0.7981755986316992,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Pressure"
+              ],
+              "text": [
+                "124/78."
+              ]
+            },
+            "id": "tH3f7uDMZv",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          }
+        ]
+	},
+	"allergy-evaluation-consult.png": {
+		"created_username": "admin",
+        "created_ago": "2021-11-30T12:26:04.836Z",
+        "result": [
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 31.94836627672449,
+              "y": 45.01140250855188,
+              "width": 4.598628479225494,
+              "height": 0.9692132269099203,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Pressure"
+              ],
+              "text": [
+                "128/78,"
+              ]
+            },
+            "id": "HbY3BAIt8i",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 40.943929003630494,
+              "y": 45.03990877993159,
+              "width": 1.855586930213796,
+              "height": 0.9407069555302165,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Pulse"
+              ],
+              "text": [
+                "70,"
+              ]
+            },
+            "id": "ENlUmT105s",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.92456635740218,
+              "y": 45.03990877993159,
+              "width": 3.065752319483663,
+              "height": 0.9407069555302165,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Temperature"
+              ],
+              "text": [
+                "97.8,"
+              ]
+            },
+            "id": "GVzSkHKDdP",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          },
+          {
+            "original_width": 2479,
+            "original_height": 3508,
+            "image_rotation": 0,
+            "value": {
+              "x": 21.016538926986687,
+              "y": 33.46636259977195,
+              "width": 4.195240016135538,
+              "height": 1.026225769669327,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Result"
+              ],
+              "text": [
+                "Strong"
+              ]
+            },
+            "id": "DaW9DVt-eD",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels"
+          }
+        ]
+	}
+}

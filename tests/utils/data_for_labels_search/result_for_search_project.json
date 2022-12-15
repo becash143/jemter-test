@@ -1,0 +1,1669 @@
+[
+  {
+    "completions": [],
+    "predictions": [],
+    "created_at": "2021-07-20 06:30:2",
+    "created_by": "admin",
+    "data": {
+      "text": "To have faith is to trust yourself to the water",
+      "title": ""
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "created_username": "admin",
+        "created_ago": "2021-07-20T06:38:13.952Z",
+        "lead_time": 82,
+        "result": [
+          {
+            "value": {
+              "start": 23,
+              "end": 41,
+              "text": "ULTRASOUND ABDOMEN",
+              "labels": [
+                "Task9and11and6"
+              ]
+            },
+            "id": "Zso89npDlr",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 475,
+              "end": 487,
+              "text": "respectively",
+              "labels": [
+                "Task9and11and6"
+              ]
+            },
+            "id": "YHPknIDmVF",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 492,
+              "end": 506,
+              "text": "hydronephrosis",
+              "labels": [
+                "Task8and9and2"
+              ]
+            },
+            "id": "HHch8Obc-3",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 273,
+              "end": 283,
+              "text": "dilatation",
+              "labels": [
+                "Task9and11and6"
+              ]
+            },
+            "id": "QBECFdLNlL",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "id": "AvqU2qqQDZ",
+            "from_name": "C1",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "id": "66ka4OaduV",
+            "from_name": "C3",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "from_id": "Zso89npDlr",
+            "to_id": "YHPknIDmVF",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task8and9and2"
+            ]
+          },
+          {
+            "from_id": "HHch8Obc-3",
+            "to_id": "Zso89npDlr",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task9and11and6"
+            ]
+          }
+        ],
+        "honeypot": false,
+        "id": 9001,
+        "updated_at": "2021-07-20T06:38:46.603942Z",
+        "updated_by": "admin"
+      }
+    ],
+    "predictions": [],
+    "created_at": "2021-07-20 06:38:14",
+    "created_by": "admin",
+    "data": {
+      "text": "\nClinical: Screening\n\n\nULTRASOUND ABDOMEN\n\n\nThe liver shows smooth surface but shows raised echogenicity in keeping with\nfatty infiltrates. No suspicious focal hepatic lesion is seen.\nThe gall bladder has been resected. No mass in the gall bladder bed. There is\nno biliary dilatation. The common hepatic duct measures 0.2 cm in diameter.\nBoth kidneys are normal in size, shape and echogenicity. The bipolar lengths\nof the kidneys are 9.9 cm and 10.7 cm on the right and left respectively. No\nhydronephrosis or suspicious focal renal lesion. No large renal stone.\nThe spleen (span 11.1 cm), imaged pancreatic head and body are unremarkable.\nThe pancreatic tail is obscured by bowel gas.\n\nIMPRESSION:\n\n1. Fatty liver.\n2. Post cholecystectomy.\n3. No suspicious finding.\n",
+      "title": ""
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "created_username": "admin",
+        "created_ago": "2021-07-20T06:36:28.869Z",
+        "lead_time": 102,
+        "result": [
+          {
+            "value": {
+              "start": 4,
+              "end": 15,
+              "text": "human KCNJ9",
+              "labels": [
+                "Task5and10and11"
+              ]
+            },
+            "id": "RgE1VVDopE",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 765,
+              "end": 771,
+              "text": "muscle",
+              "labels": [
+                "Task5and10and11"
+              ]
+            },
+            "id": "o3BRrC0cp7",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 819,
+              "end": 829,
+              "text": "facilitate",
+              "labels": [
+                "Task9and11and6"
+              ]
+            },
+            "id": "GQzNRIK38n",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 263,
+              "end": 274,
+              "text": "Pima Indian",
+              "labels": [
+                "Task9and11and6"
+              ]
+            },
+            "id": "MChT6KQsMB",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 532,
+              "end": 542,
+              "text": "aVal366Ala",
+              "labels": [
+                "Task11and3and6"
+              ]
+            },
+            "id": "uX_mXPkpLe",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 777,
+              "end": 793,
+              "text": "characterization",
+              "labels": [
+                "Task5and10and11"
+              ]
+            },
+            "id": "j-FNhtMAwM",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "id": "93EzN3XWkR",
+            "from_name": "C3",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "from_id": "j-FNhtMAwM",
+            "to_id": "GQzNRIK38n",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task5and10and11"
+            ]
+          },
+          {
+            "from_id": "o3BRrC0cp7",
+            "to_id": "uX_mXPkpLe",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task9and11and6"
+            ]
+          },
+          {
+            "from_id": "RgE1VVDopE",
+            "to_id": "MChT6KQsMB",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task11and3and6"
+            ]
+          }
+        ],
+        "honeypot": false,
+        "id": 11001,
+        "updated_at": "2021-07-20T06:37:15.369333Z",
+        "updated_by": "admin"
+      }
+    ],
+    "predictions": [],
+    "created_at": "2021-07-20 06:36:29",
+    "created_by": "admin",
+    "data": {
+      "text": "The human KCNJ9 (Kir 3.3, GIRK3) is a member of the G-protein-activated inwardly rectifying potassium (GIRK) channel family. Here we describe the genomicorganization of the KCNJ9 locus on chromosome 1q21-23 as a candidate gene forType II diabetes mellitus in the Pima Indian population. The gene spansapproximately 7.6 kb and contains one noncoding and two coding exons separated byapproximately 2.2 and approximately 2.6 kb introns, respectively. We identified14 single nucleotide polymorphisms (SNPs), including one that predicts aVal366Ala substitution, and an 8 base-pair (bp) insertion/deletion. Ourexpression studies revealed the presence of the transcript in various humantissues including pancreas, and two major insulin-responsive tissues: fat andskeletal muscle. The characterization of the KCNJ9 gene should facilitate furtherstudies on the function of the KCNJ9 protein and allow evaluation of thepotential role of the locus in Type II diabetes. BACKGROUND: At present, it is one of the most important issues for the treatment of breast cancer to develop the standard therapy for patients previously treated with anthracyclines and taxanes.",
+      "ocr_enable": false,
+      "title": ""
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "created_username": "admin",
+        "created_ago": "2021-07-20T07:06:59.893Z",
+        "lead_time": 88,
+        "result": [
+          {
+            "value": {
+              "start": 94,
+              "end": 102,
+              "text": "Possible",
+              "labels": [
+                "Task1and3and5"
+              ]
+            },
+            "id": "fgMnoWoP2w",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 174,
+              "end": 183,
+              "text": "shortness",
+              "labels": [
+                "Task1and3and5"
+              ]
+            },
+            "id": "b4Yokk0rqO",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 354,
+              "end": 366,
+              "text": "CONSULTATION",
+              "labels": [
+                "Task6and1and7"
+              ]
+            },
+            "id": "ZngY55hG07",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 396,
+              "end": 405,
+              "text": "diaphragm",
+              "labels": [
+                "Task6and1and7"
+              ]
+            },
+            "id": "ucXxYWeuDe",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 766,
+              "end": 773,
+              "text": "MEDICAL",
+              "labels": [
+                "Task10and1and5"
+              ]
+            },
+            "id": "Zg2vENarBP",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 912,
+              "end": 919,
+              "text": "Looking",
+              "labels": [
+                "Task10and1and5"
+              ]
+            },
+            "id": "STepE3K2Vy",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "choices": [
+                "Unknown"
+              ]
+            },
+            "id": "IlJfxGK3Pw",
+            "from_name": "C2",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "id": "0_-bavcyb-",
+            "from_name": "C1",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "from_id": "fgMnoWoP2w",
+            "to_id": "b4Yokk0rqO",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task1and3and5"
+            ]
+          },
+          {
+            "from_id": "ZngY55hG07",
+            "to_id": "ucXxYWeuDe",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task6and1and7"
+            ]
+          },
+          {
+            "from_id": "Zg2vENarBP",
+            "to_id": "STepE3K2Vy",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task10and1and5"
+            ]
+          }
+        ],
+        "honeypot": false,
+        "id": 1001,
+        "updated_at": "2021-07-20T07:07:54.497229Z",
+        "updated_by": "admin"
+      }
+    ],
+    "predictions": [],
+    "created_at": "2021-07-20 07:07:00",
+    "created_by": "admin",
+    "data": {
+      "text": "Medical Specialty:\nGastroenterology\n\nSample Name: Air Under Diaphragm - Consult\n\nDescription: Possible free air under the diaphragm. On a chest x-ray for what appeared to be shortness of breath she was found to have what was thought to be free air under the right diaphragm. No intra-abdominal pathology.\n(Medical Transcription Sample Report)\nREASON FOR CONSULTATION: Possible free air under the diaphragm.\n\nHISTORY OF PRESENT ILLNESS: The patient is a 77-year-old female who is unable to give any information. She has been sedated with Ativan and came into the emergency room obtunded and unable to give any history. On a chest x-ray for what appeared to be shortness of breath she was found to have what was thought to be free air under the right diaphragm.\n\nPAST MEDICAL HISTORY: Significant for alcohol abuse. Unable to really gather any other information because she is so obtunded.\n\nPAST SURGICAL HISTORY: Looking at the medical chart, she had an appendectomy, right hip fracture from a fall in 2005, and TAH/BSO.\n\nMEDICATIONS: Unable to evaluate.\n\nALLERGIES: UNABLE TO EVALUATE.\n\nSOCIAL HISTORY: Significant history of alcohol abuse, according to the emergency room physician, who sees her on a regular basis.\n\nREVIEW OF SYSTEMS: Unable to obtain.\n\nPHYSICAL EXAM\nVITAL SIGNS: Temp 98.3, heart rate 82, respiratory rate 24, and blood pressure 141/70.\nGENERAL: She is a very obtunded female who upon arousal is not able to provide any information of any use.\nHEENT: Atraumatic.\nNECK: Soft and supple.\nLUNGS: Bilaterally diminished.\nHEART: Regular.\nABDOMEN: Soft, and with deep palpation I am unable to arouse the patient, unable to elicit any tenderness.\n\nLABORATORY STUDIES: Show a normal white blood cell count with no shift. Elevated AST at 138, with a normal ALT at 38. Alkaline phosphatase of 96, bilirubin 0.8. Sodium is 107, with 68 chloride and potassium of 2.8.\n\nX-ray of the chest shows the possibility of free air; therefore, a CT scan was obtained because of the patient's physical examination, which shows no evidence of intra-abdominal pathology. The etiology of the air under the diaphragm is actually a colonic air that is anterior superior to the dome of the diaphragm, near the dome of the liver.\n\nASSESSMENT: No intra-abdominal pathology.\n\nPLAN: Have her admitted to the medical service for treatment of her hyponatremia.",
+      "title": ""
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "created_username": "admin",
+        "created_ago": "2021-07-20T06:41:56.655Z",
+        "lead_time": 128,
+        "result": [
+          {
+            "value": {
+              "start": 60,
+              "end": 80,
+              "text": "Abnormal Stress Test",
+              "labels": [
+                "Task3and2and7"
+              ]
+            },
+            "id": "9CJQjc3Abi",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 197,
+              "end": 205,
+              "text": "standard",
+              "labels": [
+                "Task3and2and7"
+              ]
+            },
+            "id": "et2kszn1Ts",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 247,
+              "end": 255,
+              "text": "moderate",
+              "labels": [
+                "Task4and7and8"
+              ]
+            },
+            "id": "MhNKgwBbt1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 407,
+              "end": 415,
+              "text": "markedly",
+              "labels": [
+                "Task4and7and8"
+              ]
+            },
+            "id": "y_LAkJM3Md",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 334,
+              "end": 341,
+              "text": "HISTORY",
+              "labels": [
+                "Task6and1and7"
+              ]
+            },
+            "id": "IefNU_0m8s",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 767,
+              "end": 782,
+              "text": "catheterization",
+              "labels": [
+                "Task6and1and7"
+              ]
+            },
+            "id": "i1SPZSjnfL",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 873,
+              "end": 890,
+              "text": "proximal LAD with",
+              "labels": [
+                "Task7and3and4"
+              ]
+            },
+            "id": "OmiGwmY8Wo",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "choices": [
+                "Unknown"
+              ]
+            },
+            "id": "X_XSUNvkz6",
+            "from_name": "C1",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "value": {
+              "choices": [
+                "Unknown"
+              ]
+            },
+            "id": "wfIF43gfaY",
+            "from_name": "C2",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "from_id": "9CJQjc3Abi",
+            "to_id": "et2kszn1Ts",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task3and2and7"
+            ]
+          },
+          {
+            "from_id": "MhNKgwBbt1",
+            "to_id": "et2kszn1Ts",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task4and7and8"
+            ]
+          },
+          {
+            "from_id": "IefNU_0m8s",
+            "to_id": "y_LAkJM3Md",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task6and1and7"
+            ]
+          },
+          {
+            "from_id": "i1SPZSjnfL",
+            "to_id": "OmiGwmY8Wo",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task7and3and4"
+            ]
+          }
+        ],
+        "honeypot": false,
+        "id": 7001,
+        "updated_at": "2021-07-20T06:43:58.674009Z",
+        "updated_by": "admin",
+        "submitted_at": null
+      }
+    ],
+    "predictions": [],
+    "created_at": "2021-07-20 06:41:57",
+    "created_by": "admin",
+    "data": {
+      "text": "Medical Specialty:\nConsult - History and Phy.\n\nSample Name: Abnormal Stress Test\n\nDescription: Patient had a markedly abnormal stress test with severe chest pain after 5 minutes of exercise on the standard Bruce with horizontal ST depressions and moderate apical ischemia on stress imaging only.\n(Medical Transcription Sample Report)\nHISTORY OF PRESENT ILLNESS: Mr. ABC is a 60-year-old gentleman who had a markedly abnormal stress test earlier today in my office with severe chest pain after 5 minutes of exercise on the standard Bruce with horizontal ST depressions and moderate apical ischemia on stress imaging only. He required 3 sublingual nitroglycerin in total (please see also admission history and physical for full details).\n\nThe patient underwent cardiac catheterization with myself today which showed mild-to-moderate left main distal disease of 30%, moderate proximal LAD with a severe mid-LAD lesion of 99%, and a mid-left circumflex lesion of 80% with normal LV function and some mild luminal irregularities in the right coronary artery with some moderate stenosis seen in the mid to distal right PDA.\n\nI discussed these results with the patient, and he had been relating to me that he was having rest anginal symptoms, as well as nocturnal anginal symptoms, and especially given the severity of the mid left anterior descending lesion, with a markedly abnormal stress test, I felt he was best suited for transfer for PCI. I discussed the case with Dr. X at Medical Center who has kindly accepted the patient in transfer.\n\nCONDITION ON TRANSFER: Stable but guarded. The patient is pain-free at this time.\n\nMEDICATIONS ON TRANSFER:\n1. Aspirin 325 mg once a day.\n2. Metoprolol 50 mg once a day, but we have had to hold it because of relative bradycardia which he apparently has a history of.\n3. Nexium 40 mg once a day.\n4. Zocor 40 mg once a day, and there is a fasting lipid profile pending at the time of this dictation. I see that his LDL was 136 on May 3, 2002.\n5. Plavix 600 mg p.o. x1 which I am giving him tonight.\n\nOther medical history is inclusive for obstructive sleep apnea for which he is unable to tolerate positive pressure ventilation, GERD, arthritis\n\nDISPOSITION: The patient and his wife have requested and are agreeable with transfer to Medical Center, and we are enclosing the CD ROM of his images.",
+      "title": ""
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "created_username": "admin",
+        "created_ago": "2021-07-20T06:53:56.539Z",
+        "lead_time": 191,
+        "result": [
+          {
+            "value": {
+              "start": 259,
+              "end": 269,
+              "text": "Department",
+              "labels": [
+                "Task1and3and5"
+              ]
+            },
+            "id": "rFf2hsup2Y",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 277,
+              "end": 283,
+              "text": "mother",
+              "labels": [
+                "Task1and3and5"
+              ]
+            },
+            "id": "nLs_033424",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 562,
+              "end": 564,
+              "text": "ER",
+              "labels": [
+                "Task3and2and7"
+              ]
+            },
+            "id": "dGyixiac_t",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 19,
+              "end": 29,
+              "text": "Pediatrics",
+              "labels": [
+                "Task7and3and4"
+              ]
+            },
+            "id": "ayKvt4i2se",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 790,
+              "end": 797,
+              "text": "MEDICAL",
+              "labels": [
+                "Task7and3and4"
+              ]
+            },
+            "id": "Wbztr44ak1",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 877,
+              "end": 886,
+              "text": "pneumonia",
+              "labels": [
+                "Task11and3and6"
+              ]
+            },
+            "id": "JUE2mnds1i",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "choices": [
+                "Unknown"
+              ]
+            },
+            "id": "nh8xRE0wvS",
+            "from_name": "C2",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "id": "w2K9YFSFO6",
+            "from_name": "C1",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "from_id": "ayKvt4i2se",
+            "to_id": "rFf2hsup2Y",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task1and3and5"
+            ]
+          },
+          {
+            "from_id": "ayKvt4i2se",
+            "to_id": "nLs_033424",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task3and2and7"
+            ]
+          },
+          {
+            "from_id": "dGyixiac_t",
+            "to_id": "Wbztr44ak1",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task7and3and4"
+            ]
+          },
+          {
+            "from_id": "JUE2mnds1i",
+            "to_id": "Wbztr44ak1",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task11and3and6"
+            ]
+          }
+        ],
+        "honeypot": false,
+        "id": 3001,
+        "updated_at": "2021-07-20T06:56:30.214883Z",
+        "updated_by": "admin"
+      }
+    ],
+    "predictions": [],
+    "created_at": "2021-07-20 06:53:57",
+    "created_by": "admin",
+    "data": {
+      "text": "Medical Specialty:\nPediatrics - Neonatal\n\nSample Name: Asthma in a 5-year-old\n\nDescription: Mother states he has been wheezing and coughing.\n(Medical Transcription Sample Report)\nCHIEF COMPLAINT: This 5-year-old male presents to Children's Hospital Emergency Department by the mother with \"have asthma.\" Mother states he has been wheezing and coughing. They saw their primary medical doctor. He was evaluated at the clinic, given the breathing treatment and discharged home, was not having asthma, prescribed prednisone and an antibiotic. They told to go to the ER if he got worse. He has had some vomiting and some abdominal pain. His peak flows on the morning are normal at 150, but in the morning, they were down to 100 and subsequently decreased to 75 over the course of the day.\n\nPAST MEDICAL HISTORY: Asthma with his last admission in 07/2007. Also inclusive of frequent pneumonia by report.\n\nIMMUNIZATIONS: Up-to-date.\n\nALLERGIES: Denied.\n\nMEDICATIONS: Advair, Nasonex, Xopenex, Zicam, Zithromax, prednisone, and albuterol.\n\nPAST SURGICAL HISTORY: Denied.\n\nSOCIAL HISTORY: Lives at home, here in the ED with the mother and there is no smoking in the home.\n\nFAMILY HISTORY: No noted exposures.\n\nREVIEW OF SYSTEMS: Documented on the template. Systems reviewed on the template.\n\nPHYSICAL EXAMINATION:\nVITAL SIGNS: Temperature 98.7, pulse 105, respiration is 28, blood pressure 112/65, and weight of 16.5 kg. Oxygen saturation low at 91% on room air.\n\nGENERAL: This is a well-developed male who is cooperative, alert, active with oxygen by facemask.\n\nHEENT: Head is atraumatic and normocephalic. Pupils are equal, round, and reactive to light. Extraocular motions are intact and conjugate. Clear TMs, nose, and oropharynx.\n\nNECK: Supple. Full painless nontender range of motion.\n\nCHEST: Tight wheezing and retractions heard bilaterally.\n\nHEART: Regular without rubs or murmurs.\n\nABDOMEN: Soft, nontender. No masses. No hepatosplenomegaly.\n\nGENITALIA: Male genitalia is present on a visual examination.\n\nSKIN: No significant bruising, lesions or rash.\n\nEXTREMITIES: Moves all extremities without difficulty, nontender. No deformity.\n\nNEUROLOGIC: Symmetric face, cooperative, and age appropriate.\n\nMEDICAL DECISION MAKING: The differential entertained on this patient includes reactive airways disease, viral syndrome, and foreign body pneumonia. He is evaluated in the emergency department with continuous high-dose albuterol, Decadron by mouth, pulse oximetry, and close observation. Chest x-ray reveals bronchial thickening, otherwise no definite infiltrate. She is further treated in the emergency department with continued breathing treatments. At 0048 hours, he has continued tight wheezes with saturations 99%, but ED sats are 92% with coughing spells. Based on the above, the hospitalist was consulted and accepts this patient for admission to the hospital with the working diagnosis of respiratory distress and asthma.",
+      "title": ""
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "created_username": "admin",
+        "created_ago": "2021-07-20T06:57:54.181Z",
+        "lead_time": 104,
+        "result": [
+          {
+            "value": {
+              "start": 372,
+              "end": 381,
+              "text": "recurrent",
+              "labels": [
+                "Task2and4and6"
+              ]
+            },
+            "id": "R-n97npqVj",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 129,
+              "end": 138,
+              "text": "recurrent",
+              "labels": [
+                "Task2and4and6"
+              ]
+            },
+            "id": "k21ol3Yk2e",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 649,
+              "end": 654,
+              "text": "acute",
+              "labels": [
+                "Task3and2and7"
+              ]
+            },
+            "id": "prlnU7pZNt",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 704,
+              "end": 715,
+              "text": "myringotomy",
+              "labels": [
+                "Task8and9and2"
+              ]
+            },
+            "id": "2Gd7v1bxzX",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 228,
+              "end": 255,
+              "text": "Transcription Sample Report",
+              "labels": [
+                "Task8and9and2"
+              ]
+            },
+            "id": "fSv6rmo9yW",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "choices": [
+                "Unknown"
+              ]
+            },
+            "id": "HDOxNffilG",
+            "from_name": "C1",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "id": "vOEAwDMno1",
+            "from_name": "C2",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "from_id": "k21ol3Yk2e",
+            "to_id": "fSv6rmo9yW",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task2and4and6"
+            ]
+          },
+          {
+            "from_id": "R-n97npqVj",
+            "to_id": "k21ol3Yk2e",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task3and2and7"
+            ]
+          },
+          {
+            "from_id": "prlnU7pZNt",
+            "to_id": "2Gd7v1bxzX",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task8and9and2"
+            ]
+          }
+        ],
+        "honeypot": false,
+        "id": 2001,
+        "submitted_at": null,
+        "updated_at": "2021-07-20T07:06:15.367532Z",
+        "updated_by": "admin"
+      }
+    ],
+    "predictions": [],
+    "created_at": "2021-07-20 06:57:54",
+    "created_by": "admin",
+    "data": {
+      "text": "Medical Specialty:\nPediatrics - Neonatal\n\nSample Name: Chronic Otitis Media\n\nDescription: A 14-month-old with history of chronic recurrent episodes of otitis media, totalling 6 bouts, requiring antibiotics since birth.\n(Medical Transcription Sample Report)\nCHIEF COMPLAINT: Chronic otitis media.\n\nHISTORY OF PRESENT ILLNESS: This is a 14-month-old with history of chronic recurrent episodes of otitis media, totalling 6 bouts, requiring antibiotics since birth. There is also associated chronic nasal congestion. There had been no bouts of spontaneous tympanic membrane perforation, but there had been elevations of temperature up to 102 during the acute infection. He is being admitted at this time for myringotomy and tube insertion under general facemask anesthesia.\n\nALLERGIES: None.\n\nMEDICATIONS: None.\n\nFAMILY HISTORY: Noncontributory.\n\nMEDICAL HISTORY: Mild reflux.\n\nPREVIOUS SURGERIES: None.\n\nSOCIAL HISTORY: The patient is not in daycare. There are no pets in the home. There is no secondhand tobacco exposure.\n\nPHYSICAL EXAMINATION: Examination of ears reveals retracted poorly mobile tympanic membranes on the right side with a middle ear effusion present. Left ear is still little bit black. Nose, moderate inferior turbinate hypertrophy. No polyps or purulence. Oral cavity, oropharynx 2+ tonsils. No exudates. Neck, no nodes, masses or thyromegaly. Lungs are clear to A&P. Cardiac exam, regular rate and rhythm. No murmurs. Abdomen is soft and nontender. Positive bowel sounds.\n\nIMPRESSION: Chronic eustachian tube dysfunction, chronic otitis media with effusion, recurrent acute otitis media, and wax accumulation.\n\nPLAN: The patient will be admitted to the operating room for myringotomy and tube insertion under general facemask anesthesia.",
+      "title": ""
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "created_username": "admin",
+        "created_ago": "2021-07-20T06:47:26.347Z",
+        "lead_time": 221,
+        "result": [
+          {
+            "value": {
+              "start": 60,
+              "end": 73,
+              "text": "Acne Vulgaris",
+              "labels": [
+                "Task2and4and6"
+              ]
+            },
+            "id": "t9shX_doDL",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 182,
+              "end": 186,
+              "text": "oral",
+              "labels": [
+                "Task2and4and6"
+              ]
+            },
+            "id": "Kv8z3vlNan",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 599,
+              "end": 604,
+              "text": "Onset",
+              "labels": [
+                "Task6and1and7"
+              ]
+            },
+            "id": "MAwimoGP13",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 2299,
+              "end": 2317,
+              "text": "antibiotic therapy",
+              "labels": [
+                "Task6and1and7"
+              ]
+            },
+            "id": "PCQv-m57vX",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 1240,
+              "end": 1267,
+              "text": "Patient admits caffeine use",
+              "labels": [
+                "Task9and11and6"
+              ]
+            },
+            "id": "VdI6suWxO_",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 1448,
+              "end": 1451,
+              "text": "STD",
+              "labels": [
+                "Task6and1and7"
+              ]
+            },
+            "id": "C4K_3RTKm8",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 973,
+              "end": 979,
+              "text": "Female",
+              "labels": [
+                "Task9and11and6"
+              ]
+            },
+            "id": "rurxhWavrn",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 857,
+              "end": 863,
+              "text": "tablet",
+              "labels": [
+                "Task11and3and6"
+              ]
+            },
+            "id": "cN5i6iNR90",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 1707,
+              "end": 1715,
+              "text": "PHYSICAL",
+              "labels": [
+                "Task11and3and6"
+              ]
+            },
+            "id": "8ZTj46hWg_",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "id": "DRVzL_d1Dt",
+            "from_name": "C2",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "value": {
+              "choices": [
+                "Unknown"
+              ]
+            },
+            "id": "x6MFzW_qpB",
+            "from_name": "C3",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "from_id": "t9shX_doDL",
+            "to_id": "Kv8z3vlNan",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task2and4and6"
+            ]
+          },
+          {
+            "from_id": "MAwimoGP13",
+            "to_id": "cN5i6iNR90",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task6and1and7"
+            ]
+          },
+          {
+            "from_id": "rurxhWavrn",
+            "to_id": "cN5i6iNR90",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task9and11and6"
+            ]
+          },
+          {
+            "from_id": "C4K_3RTKm8",
+            "to_id": "VdI6suWxO_",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task11and3and6"
+            ]
+          }
+        ],
+        "honeypot": false,
+        "id": 6001,
+        "updated_at": "2021-07-20T06:48:36.638565Z",
+        "updated_by": "admin",
+        "submitted_at": null
+      }
+    ],
+    "predictions": [],
+    "created_at": "2021-07-20 06:47:27",
+    "created_by": "admin",
+    "data": {
+      "text": "Medical Specialty:\nConsult - History and Phy.\n\nSample Name: Acne Vulgaris - H&P\n\nDescription: Acne from continually washing area, frequent phone use so the receiver rubs on face and oral contraceptive use - Acne Vulgaris\n(Medical Transcription Sample Report)\nCHIEF COMPLAINT (1/1): This 19 year old female presents today complaining of acne from continually washing area, frequent phone use so the receiver rubs on face and oral contraceptive use. Location: She indicates the problem location is the chin, right temple and left temple locally. Severity: Severity of condition is worsening.\n\nMenses: Onset: 13 years old. Interval: 22-27 days. Duration: 4-6 days. Flow: light. Complications: none.\n\nALLERGIES: Patient admits allergies to penicillin resulting in difficulty breathing.\n\nMEDICATION HISTORY: Patient is currently taking Alesse-28, 20 mcg-0.10 mg tablet usage started on 08/07/2001 medication was prescribed by Obstetrician-Gynecologist A.\n\nPAST MEDICAL HISTORY: Female Reproductive Hx: (+) birth control pill use, Childhood Illnesses: (+) chickenpox, (+) measles.\n\nPAST SURGICAL HISTORY: No previous surgeries.\n\nFAMILY HISTORY: Patient admits a family history of anxiety, stress disorder associated with mother.\n\nSOCIAL HISTORY: Patient admits caffeine use She consumes 3-5 servings per day, Patient admits alcohol use Drinking is described as social, Patient admits good diet habits, Patient admits exercising regularly, Patient denies STD history.\n\nREVIEW OF SYSTEMS: Integumentary: (+) periodic reddening of face, (+) acne problems, Allergic /\nImmunologic: (-) allergic or immunologic symptoms, Constitutional Symptoms: (-) constitutional symptoms\nsuch as fever, headache, nausea, dizziness.\n\nPHYSICAL EXAM: Patient is a 19 year old female who appears pleasant, in no apparent distress, her given age, well developed, well nourished and with good attention to hygiene and body habitus. Skin: Examination of scalp shows no abnormalities. Hair growth and distribution is normal. Inspection of skin outside of affected area reveals no abnormalities. Palpation of skin shows no abnormalities. Inspection of eccrine and apocrine glands shows no evidence of hyperidrosis, chromidrosis or bromhidrosis. Face shows keratotic papule.\n\nIMPRESSION: Acne vulgaris.\n\nPLAN: Recommended treatment is antibiotic therapy. Patient received extensive counseling about acne. She understands acne treatment is usually long-term. Return to clinic in 4 week (s).\n\nPATIENT INSTRUCTIONS: Patient received literature regarding acne vulgaris. Discussed with the patient the prescription for Tetracycline and handed out information regarding the side effects and the proper method of ingestion.\n\nPRESCRIPTIONS: Tetracycline Dosage: 250 mg capsule Sig: BID Dispense: 60 Refills: 0 Allow Generic: Yes",
+      "title": ""
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "created_username": "admin",
+        "created_ago": "2021-07-20T06:40:08.054Z",
+        "lead_time": 122,
+        "result": [
+          {
+            "value": {
+              "start": 0,
+              "end": 17,
+              "text": "Medical Specialty",
+              "labels": [
+                "Task4and7and8"
+              ]
+            },
+            "id": "wH5kGuJ18s",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 2041,
+              "end": 2055,
+              "text": "acute distress",
+              "labels": [
+                "Task4and7and8"
+              ]
+            },
+            "id": "D_wnJ83TDQ",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 910,
+              "end": 936,
+              "text": "received first set of shot",
+              "labels": [
+                "Task4and7and8"
+              ]
+            },
+            "id": "ozT-Al1Jip",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 1175,
+              "end": 1188,
+              "text": "complications",
+              "labels": [
+                "Task4and7and8"
+              ]
+            },
+            "id": "aJmu-UZOK9",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 1387,
+              "end": 1409,
+              "text": "asthma or lung disease",
+              "labels": [
+                "Task8and9and2"
+              ]
+            },
+            "id": "Qv2eM7AEqT",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 2339,
+              "end": 2345,
+              "text": "mucous",
+              "labels": [
+                "Task8and9and2"
+              ]
+            },
+            "id": "Q5PeZnfPFo",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "id": "gJeHzVVtJg",
+            "from_name": "C2",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "value": {
+              "choices": [
+                "Unknown"
+              ]
+            },
+            "id": "kXrbo8kXDo",
+            "from_name": "C3",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "from_id": "Q5PeZnfPFo",
+            "to_id": "D_wnJ83TDQ",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task4and7and8"
+            ]
+          },
+          {
+            "from_id": "wH5kGuJ18s",
+            "to_id": "ozT-Al1Jip",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task8and9and2"
+            ]
+          }
+        ],
+        "honeypot": false,
+        "id": 8001,
+        "updated_at": "2021-07-20T06:41:07.168040Z",
+        "updated_by": "admin"
+      }
+    ],
+    "predictions": [],
+    "created_at": "2021-07-20 06:40:08",
+    "created_by": "admin",
+    "data": {
+      "text": "Medical Specialty:\nConsult - History and Phy.\n\nSample Name: A 5-month-old boy with cough\n\nDescription: A 5-month-old boy brought by his parents because of 2 days of cough.\n(Medical Transcription Sample Report)\nCHIEF COMPLAINT: A 5-month-old boy with cough.\n\nHISTORY OF PRESENT ILLNESS: A 5-month-old boy brought by his parents because of 2 days of cough. Mother took him when cough started 2 days go to Clinic where they told the mother he has viral infection and gave him Tylenol, but yesterday at night cough got worse and he also started having fever. Mother did not measure it.\n\nREVIEW OF SYSTEMS: No vomiting. No diarrhea. He had runny nose started with the cough two days ago. No skin rash. No cyanosis. Pulling on his right ear. Feeding, he is bottle-fed 2 ounces every 2 hours. Mother states he urinates like 5 to 6 times a day, stools 1 time a day. He is still feeding good to mom.\n\nIMMUNIZATIONS: He received first set of shot and due for the second set on 01/17/2008.\n\nBIRTH HISTORY: He was premature at 33 weeks born at Hospital kept in NICU for 2 weeks for feeding problem as the mother said. Mother had good prenatal care at 4 weeks for more than 12 visits. No complications during pregnancy. Rupture of membranes happened two days before the labor. Mother received the antibiotics, but she is not sure, if she received steroids also or not.\n\nFAMILY HISTORY: No history of asthma or lung disease.\n\nSOCIAL HISTORY: Lives with parents and with two siblings, one 18-year-old and the other is 14-year-old in house, in Corrales. They have animals, but outside the house and father smokes outside house. No sick contacts as the mother said.\n\nPAST MEDICAL HISTORY: No hospitalizations.\n\nALLERGIES: NO KNOWN DRUG ALLERGIES.\n\nMEDICATIONS: No medications.\n\nHistory of 2 previous ear infection, last one was in last November treated with ear drops, because there was pus coming from the right ear as the mother said.\n\nPHYSICAL EXAMINATION:\nVITAL SIGNS: Temperature 100.1, heart rate 184, respiratory rate 48. Weight 7 kg.\n\nGENERAL: In no acute distress.\n\nHEAD: Normocephalic and atraumatic. Open, soft, and flat anterior fontanelle.\n\nNECK: Supple.\n\nNOSE: Dry secretions.\n\nEAR: Right ear full of yellowish material most probably pus and necrotic tissue. Tympanic membrane bilaterally visualized.\n\nMOUTH: No pharyngitis. No ulcers. Moist mucous membranes.\n\nCHEST: Bilateral audible breath sound. No wheezes. No palpitation.\n\nHEART: Regular rate and rhythm with no murmur.\n\nABDOMEN: Soft, nontender, and nondistended.\n\nGENITOURINARY: Tanner I male with descended testes.\n\nEXTREMITIES: Capillary refill less than 2 seconds.\n\nLABS: White blood cell 8.1, hemoglobin 10.5, hematocrit 30.9, and platelets 380,000. CRP 6, segments 41, and bands 41. RSV positive. Chest x-ray evidenced bronchiolitis with hyperinflation and bronchial wall thickening in the central hilar region. Subsegmental atelectasis in the right upper lobe and left lung base.\n\nASSESSMENT: A 5-month-old male with 2 days of cough and 1 day of fever. Chest x-ray shows bronchiolitis with atelectasis, and RSV antigen is positive.\n\nDIAGNOSES: Respiratory syncytial virus bronchiolitis with right otitis externa.\n\nPLAN: Plan was to admit to bronchiolitis pathway, and ciprofloxacin for right otitis externa eardrops twice daily.",
+      "title": ""
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "created_username": "admin",
+        "created_ago": "2021-07-20T06:49:36.928Z",
+        "lead_time": 101,
+        "result": [
+          {
+            "value": {
+              "start": 75,
+              "end": 85,
+              "text": "Myocardial",
+              "labels": [
+                "Task1and3and5"
+              ]
+            },
+            "id": "daPm5rrGoG",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 610,
+              "end": 622,
+              "text": "intermittent",
+              "labels": [
+                "Task5and10and11"
+              ]
+            },
+            "id": "b52gvWuAme",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 1179,
+              "end": 1192,
+              "text": "nitroglycerin",
+              "labels": [
+                "Task10and1and5"
+              ]
+            },
+            "id": "sNiRlCkulo",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "choices": [
+                "No"
+              ]
+            },
+            "id": "3iqA4ZShqF",
+            "from_name": "C1",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "id": "wpR4SPvcj5",
+            "from_name": "C3",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "from_id": "daPm5rrGoG",
+            "to_id": "b52gvWuAme",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task1and3and5"
+            ]
+          },
+          {
+            "from_id": "sNiRlCkulo",
+            "to_id": "b52gvWuAme",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task5and10and11"
+            ]
+          },
+          {
+            "from_id": "daPm5rrGoG",
+            "to_id": "sNiRlCkulo",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task10and1and5"
+            ]
+          }
+        ],
+        "honeypot": false,
+        "id": 5001,
+        "updated_at": "2021-07-20T06:50:32.351811Z",
+        "updated_by": "admin"
+      }
+    ],
+    "predictions": [],
+    "created_at": "2021-07-20 06:49:37",
+    "created_by": "admin",
+    "data": {
+      "text": "Medical Specialty:\nConsult - History and Phy.\n\nSample Name: Acute Inferior Myocardial Infarction\n\nDescription: Patient presents with a chief complaint of chest pain admitted to Coronary Care Unit due to acute inferior myocardial infarction.\n(Medical Transcription Sample Report)\nCHIEF COMPLAINT: Chest pain.\n\nHISTORY OF PRESENT ILLNESS: The patient is a 40-year-old white male who presents with a chief complaint of \"chest pain\".\n\nThe patient is diabetic and has a prior history of coronary artery disease. The patient presents today stating that his chest pain started yesterday evening and has been somewhat intermittent. The severity of the pain has progressively increased. He describes the pain as a sharp and heavy pain which radiates to his neck & left arm. He ranks the pain a 7 on a scale of 1-10. He admits some shortness of breath & diaphoresis. He states that he has had nausea & 3 episodes of vomiting tonight. He denies any fever or chills. He admits prior episodes of similar pain prior to his PTCA in 1995. He states the pain is somewhat worse with walking and seems to be relieved with rest. There is no change in pain with positioning. He states that he took 3 nitroglycerin tablets sublingually over the past 1 hour, which he states has partially relieved his pain. The patient ranks his present pain a 4 on a scale of 1-10. The most recent episode of pain has lasted one-hour.\n\nThe patient denies any history of recent surgery, head trauma, recent stroke, abnormal bleeding such as blood in urine or stool or nosebleed.\n\nREVIEW OF SYSTEMS: All other systems reviewed & are negative.\n\nPAST MEDICAL HISTORY: Diabetes mellitus type II, hypertension, coronary artery disease, atrial fibrillation, status post PTCA in 1995 by Dr. ABC.\n\nSOCIAL HISTORY: Denies alcohol or drugs. Smokes 2 packs of cigarettes per day. Works as a banker.\n\nFAMILY HISTORY: Positive for coronary artery disease (father & brother).\n\nMEDICATIONS: Aspirin 81 milligrams QDay. Humulin N. insulin 50 units in a.m. HCTZ 50 mg QDay. Nitroglycerin 1/150 sublingually PRN chest pain.\n\nALLERGIES: Penicillin.\n\nPHYSICAL EXAM: The patient is a 40-year-old white male.\nGeneral: The patient is moderately obese but he is otherwise well developed & well nourished. He appears in moderate discomfort but there is no evidence of distress. He is alert, and oriented to person place and circumstance. There is no evidence of respiratory distress. The patient ambulates without gait abnormality or difficulty.\nHEENT: Normocephalic/atraumatic head. Pupils are 2.5 mm, equal round and react to light bilaterally. Extra-ocular muscles are intact bilaterally. External auditory canals are clear bilaterally. Tympanic membranes are clear and intact bilaterally.\nNeck: No JVD. Neck is supple. There is free range of motion & no tenderness, thyromegaly or lymphadenopathy noted.\nPharynx: Clear, no erythema, exudates or tonsillar enlargement.\nChest: No chest wall tenderness to palpation. Lungs: Clear to auscultation bilaterally. Heart: irregularly-irregular rate and rhythm no murmurs gallops or rubs. Normal PMI\nAbdomen: Soft, non-distended. No tenderness noted. No CVAT.\nSkin: Warm, diaphoretic, mucous membranes moist, normal turgor, no rash noted.\nExtremities: No gross visible deformity, free range of motion. No edema or cyanosis. No calf/ thigh tenderness or swelling.\n\nCOURSE IN EMERGENCY DEPARTMENT: The patient's chest pain improved after the sublingual nitroglycerine and completely resolved with the Nitroglycerin Drip at 30 ug/Minute. He tolerated the TPA well. He was transferred to the CCU in a stable condition\n\nPROCEDURES:\n10:40 PM Dr. ABC (cardiologist) apprised. He agrees with T PA per 90 minute protocol & IV nitroglycerin drip. He is to come see patient in the emergency department.\n10:45 PM risks & benefits of TPA discussed with patient & his family. They agree with administration of TPA and are willing to accept the risks.\n10:50 PM TPA started.\n11:20 PM Dr. ABC present in emergency department assisting with patient care.\n\nDIAGNOSTIC STUDIES:\nCBC: WBC 14.2, hematocrit 33.5, platelets 316\nChem 7: Na 142, potassium 4.5, chloride 102, CO2 22.6, BUN 15, creatinine 1.2, glucose 186\nSerum Troponin I: 2.5\nChest x-ray: Lung fields clear. No cardiomegaly or other acute findings\nEKG: Atrial fibrillation with Ventricular rate of 65. Acute inferior ischemic changes noted i.e. ST elevation III & aVF (refer to EKG multimedia).\nCardiac monitor: Sinus rhythm-atrial of fibrillation rate 60s-70s.\n\nTREATMENT:\nHeparin lock X. 2.\nNasal cannula oxygen 3 liters/minute.\nAspirin 5 grains chew & swallow.\nNitroglycerin drip at 30 micrograms/minute.\nCardiac monitor.\nTPA 90 minute protocol.\nHeparin IV 5000 unit bolus followed by 1000 units/hour.\n\nIMPRESSION: Acute Inferior Myocardial Infarction.\n\nPLAN: Patient admitted to Coronary Care Unit under the care of Dr. ABC.",
+      "title": ""
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "created_username": "admin",
+        "created_ago": "2021-07-20T06:19:29.200Z",
+        "lead_time": 165,
+        "result": [
+          {
+            "value": {
+              "start": 96,
+              "end": 102,
+              "text": "Lumbar",
+              "labels": [
+                "Task5and10and11"
+              ]
+            },
+            "id": "NCIePYjPpq",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 395,
+              "end": 408,
+              "text": "osteomyelitis",
+              "labels": [
+                "Task5and10and11"
+              ]
+            },
+            "id": "omgwUkJgLM",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 166,
+              "end": 175,
+              "text": "Placement",
+              "labels": [
+                "Task10and1and5"
+              ]
+            },
+            "id": "c4IkqeB15x",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 1278,
+              "end": 1287,
+              "text": "OPERATION",
+              "labels": [
+                "Task5and10and11"
+              ]
+            },
+            "id": "hDOt_wBUuJ",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 2115,
+              "end": 2160,
+              "text": "right atrium based on fluoroscopic guidelines",
+              "labels": [
+                "Task10and1and5"
+              ]
+            },
+            "id": "031qwcTEsu",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 1603,
+              "end": 1627,
+              "text": "chlorhexidine based prep",
+              "labels": [
+                "Task10and1and5"
+              ]
+            },
+            "id": "FEKZvzLWS2",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "id": "ehUUoulYt0",
+            "from_name": "C2",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "from_id": "c4IkqeB15x",
+            "to_id": "NCIePYjPpq",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task5and10and11"
+            ]
+          },
+          {
+            "from_id": "omgwUkJgLM",
+            "to_id": "hDOt_wBUuJ",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task10and1and5"
+            ]
+          }
+        ],
+        "honeypot": false,
+        "id": 10001,
+        "updated_at": "2021-07-20T06:21:31.430643Z",
+        "updated_by": "admin"
+      }
+    ],
+    "predictions": [],
+    "created_at": "2021-07-20 06:19:29",
+    "created_by": "admin",
+    "data": {
+      "text": "Medical Specialty:\nPediatrics - Neonatal\n\nSample Name: Broviac Catheter Placement\n\nDescription: Lumbar osteomyelitis and need for durable central intravenous access. Placement of left subclavian 4-French Broviac catheter.\n(Medical Transcription Sample Report)\nPREOPERATIVE DIAGNOSES:\n1. Lumbar osteomyelitis.\n2. Need for durable central intravenous access.\n\n\n\nPOSTOPERATIVE DIAGNOSES:\n1. Lumbar osteomyelitis.\n2. Need for durable central intravenous access.\n\nANESTHESIA: General.\n\nPROCEDURE: Placement of left subclavian 4-French Broviac catheter.\n\nINDICATIONS: The patient is a toddler admitted with a limp and back pain, who was eventually found on bone scan and septic workup to have probable osteomyelitis of the lumbar spine at disk areas. The patient needs prolonged IV antibiotic therapy, but attempt at a PICC line failed. She has exhausted most of her easy peripheral IV access routes and referral was made to the Pediatric Surgery Service for Broviac placement. I met with the patient's mom. With the help of a Spanish interpreter, I explained the technique for Broviac placement. We discussed the surgical risks and alternatives, most of which have been exhausted. All their questions have been answered, and the patient is fit for operation today.\n\n\n\nDESCRIPTION OF OPERATION: The patient came to the operating room and had an uneventful induction of general anesthesia. We conducted a surgical time-out to reiterate all of the patient's important identifying information and to confirm that we were here to place the Broviac catheter. Preparation and draping of her skin was performed with chlorhexidine based prep solution and then an infraclavicular approach to left subclavian vein was performed. A flexible guidewire was inserted into the central location and then a 4-French Broviac catheter was tunneled through the subcutaneous tissues and exiting on the right anterolateral chest wall well below and lateral to the breast and pectoralis major margins. The catheter was brought to the subclavian insertion site and trimmed so that the tip would lie at the junction of the superior vena cava and right atrium based on fluoroscopic guidelines. The peel-away sheath was passed over the guidewire and then the 4-French catheter was deployed through the peel-away sheath. There was easy blood return and fluoroscopic imaging showed initially the catheter had transited across the mediastinum up the opposite subclavian vein, then it was withdrawn and easily replaced in the superior vena cava. The catheter insertion site was closed with one buried 5-0 Monocryl stitch and the same 5-0 Monocryl was used to tether the catheter at the exit site until fibrous ingrowth of the attached cuff has occurred. Heparinized saline solution was used to flush the line. A sterile occlusive dressing was applied, and the line was prepared for immediate use. The patient was transported to the recovery room in good condition. There were no intraoperative complications, and her blood loss was between 5 and 10 mL during the line placement portion of the procedure.",
+      "title": ""
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "created_username": "admin",
+        "created_ago": "2021-07-20T06:52:20.028Z",
+        "lead_time": 153,
+        "result": [
+          {
+            "value": {
+              "start": 60,
+              "end": 79,
+              "text": "Adjustment Disorder",
+              "labels": [
+                "Task2and4and6"
+              ]
+            },
+            "id": "SKjCcJl3iC",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 917,
+              "end": 932,
+              "text": "oppositionality",
+              "labels": [
+                "Task2and4and6"
+              ]
+            },
+            "id": "iOSMoiiW2E",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 278,
+              "end": 286,
+              "text": "referred",
+              "labels": [
+                "Task4and7and8"
+              ]
+            },
+            "id": "FapROX3UA6",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 663,
+              "end": 673,
+              "text": "PRESENTING",
+              "labels": [
+                "Task4and7and8"
+              ]
+            },
+            "id": "NLCkCHn4L-",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "start": 191,
+              "end": 201,
+              "text": "encopresis",
+              "labels": [
+                "Task7and3and4"
+              ]
+            },
+            "id": "CNtbEqYjvR",
+            "from_name": "label",
+            "to_name": "text",
+            "type": "labels"
+          },
+          {
+            "value": {
+              "choices": [
+                "Unknown"
+              ]
+            },
+            "id": "foovxSCEtK",
+            "from_name": "C1",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "value": {
+              "choices": [
+                "Yes"
+              ]
+            },
+            "id": "kvgHLhPinY",
+            "from_name": "C3",
+            "to_name": "text",
+            "type": "choices"
+          },
+          {
+            "from_id": "SKjCcJl3iC",
+            "to_id": "CNtbEqYjvR",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task2and4and6"
+            ]
+          },
+          {
+            "from_id": "FapROX3UA6",
+            "to_id": "NLCkCHn4L-",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task4and7and8"
+            ]
+          },
+          {
+            "from_id": "CNtbEqYjvR",
+            "to_id": "iOSMoiiW2E",
+            "type": "relation",
+            "direction": "right",
+            "labels": [
+              "Task7and3and4"
+            ]
+          }
+        ],
+        "honeypot": false,
+        "id": 4001,
+        "updated_at": "2021-07-20T06:53:13.973200Z",
+        "updated_by": "admin"
+      }
+    ],
+    "predictions": [],
+    "created_at": "2021-07-20 06:52:20",
+    "created_by": "admin",
+    "data": {
+      "text": "Medical Specialty:\nConsult - History and Phy.\n\nSample Name: Adjustment Disorder & Encopresis\n\nDescription: The patient was referred due to concerns regarding behavioral acting out as well as encopresis.\n(Medical Transcription Sample Report)\nREASON FOR REFERRAL: The patient was referred to me by Dr. X of the Clinic due to concerns regarding behavioral acting out as well as encopresis. This is a 90-minute initial intake completed on 10/03/2007. I met with the patient's mother individually for the entire session. I reviewed with her the treatment, consent form, as well as the boundaries of confidentiality, and she stated that she understood these concepts.\n\nPRESENTING PROBLEMS: Mother reported that her primary concern in regard to the patient had to do with his oppositionality. She was more ambivalent regarding addressing the encopresis. In regards to his oppositionality, she reported that the onset of his oppositionality was approximately at 4 years of age, that before that he had been a very compliant and happy child, and that he has slowly worsened over time. She noted that the oppositionality occurred approximately after his brother, who has multiple medical problems, was born. At that time, mother had spent 2 months back East with the brother due to his feeding issues and will have to go again next year. She reported that in terms of the behaviors that he loses his temper frequently, he argues with her that he defies her authority that she has to ask him many times to do things, that she has to repeat instructions, that he ignores her, that he whines, and this is when he is told to do something that he does not want to do. She reported that he deliberately annoys other people, that he can be angry and resentful. She reported that he does not display these behaviors with the father nor does he display them at home, but they are specific to her. She reported that her response to him typically is that she repeats what she wants him to do many, many times, that eventually she gets upset. She yells at him, talks with him, and tries to make him go and do what she wants him to do. Mother also noted that she probably ignores some his misbehaviors. She stated that the father tends to be more firm and more direct with him, and that, the father sometimes thinks that the mother is too easy on him. In regards to symptoms of depression, she denied symptoms of depression, noting that he tends to only become unhappy when he has to do something that he does not want to do, such as go to school or follow through on a command. She denied any suicidal ideation. She denied all symptoms of anxiety. PTSD was denied. ADHD symptoms were denied, as were all other symptoms of psychopathology.\n\nIn regards to the encopresis, she reported that he has always soiled, he does so 2 to 3 times a day. She reported that he is concerned about this issue. He currently wears underwear and had a pull-up. She reported that he was seen at the Gastroenterology Department here several years ago, and has more recently been seen at the Diseases Center, seen by Dr. Y, reported that the last visit was several months ago, that he is on MiraLax. He does sit on the toilet may be 2 times a day, although that is not consistent. Mother believes that he is probably constipated or impacted again. He refuses to eat any fiber. In regards to what happens when he soils, mother basically takes full responsibility. She cleans and changes his underwear, thinks of things that she has tried, she mostly gets frustrated, makes negative comments, even though she knows that he really cannot help it. She has never provided him with any sort of rewards, because she feels that this is something he just needs to learn to do. In regards to other issues, she noted that he becomes frustrated quite easily, especially around homework, that when mother has to correct him, or when he has had difficulty doing something that he becomes upset, that he will cry, and he will get angry. Mother's response to him is that either she gets agitated and raises her voice, tells him to stop etc. Mother reported it is not only with homework, but also with other tasks, such as if he is trying to build with his LEGOs and things do not go well.\n\nDEVELOPMENTAL BACKGROUND: The patient was reported to be the 8 pound 12 ounce product of a planned and noncomplicated pregnancy and emergency cesarean delivery. The patient presented in a breech position. Mother denied the use of drugs, alcohol, or tobacco during the pregnancy. No sleeping or eating issues were present in the perinatal period. Temperament was described as easy. He was described as a cuddly baby. No concerns expressed regarding his developmental milestones. No serious injuries reported. No hospitalizations or surgeries. No allergies. The patient has been encopretic for all of his life. He currently is taking MiraLax.\n\nFAMILY BACKGROUND: The patient lives with his mother who is age 37, and is primarily a homemaker, but does work approximately 48 hours a month as a beautician; with his father, age 35, who is a police officer; and also, with his younger brother who is age 3, and has significant medical problems as will be noted in a moment. Mother and father have been together since 1997, married in 1999. The maternal grandmother and grandfather are living and are together, and live in the Central California Coast Area. There is one maternal aunt, age 33, and then, two adopted maternal aunt and uncle, age 18 and age 13. In regards to the father's side of the family, the paternal grandparents are divorced. Grandfather was in Arkansas, grandmother lives in Dos Palos. The patient does not see his grandfather. Mother stated that her relationship with her child was as described, that he very much stresses her out, that she wishes that he was not so defiant, that she finds him to be a very stressful child to deal with. In regards to the relationship with the father, it was reported that the father tends to leave most of the parenting over to the mother, unless she specifically asks him to do something, and then, he will follow through and do it. He will step in and back mother up in terms of parenting, tell the child not to speak to his mother that way etc. Mother reported that he does spend some time with the children, but not as much as mother would like him to, but occasionally, he will go outside and do things with them. The mother reported that sometimes she has a problem in interfering with his parenting, that she steps in and defends The patient. It was reported that mother stated that she tries the parenting technique, primarily of yelling and tried time-out, although her description suggests that she is not doing time-out correctly, as he simply gets up from his time-out, and she does not follow through. Mother reported that she and the patient are very much alike in temperament, and this has made things more difficult. Mother tends to be stubborn and gets angry easily also. Mother reported becoming fatigued in her parenting, that she lets him get away with things sometimes because she does not want to punish him all day long, sometimes ignores problems that she probably should not ignore. There was reported to be jealousy between The patient and his brother, B. B evidently has some heart problems and feeding issues, and because of that, tends to get more attention in terms of his medical needs, and that the patient is very jealous of that attention and feels that B is favored and that he get things that The patient does not get, and that there is some tension between the brothers. They do play well together; however, The patient does tend to be somewhat intrusive, gets in his space, and then, B will hit him. Mother reported that she graduated from high school, went to Community College, and was an average student. No learning problems. Mother has a history of depression. She has currently been taking 100 mg of Zoloft administered by her primary medical doctor. She is not receiving counseling. She has been on the medications for the last 5 years. Her dosage has not been changed in a year. She feels that she is getting more irritable and more angry. I encouraged her to see a primary medical doctor. Mother has no drug or alcohol history. Father graduated from high school, went to the Police Academy, average student. No learning problems, no psychological problems, no drug or alcohol problems are reported. In terms of extended family, maternal grandmother as well as maternal great grandfather have a history of depression. Other psychiatric symptoms were denied in the family.\n\nMother reported that the marriage is generally okay, that there is some arguing. She reported that it was in the normal range.\n\nACADEMIC BACKGROUND: The patient attends the Roosevelt Elementary School, where he is in a regular first grade classroom with Mrs. The patient. This is in the Kingsburg Unified School District. No behavior problems, academic problems were reported. He does not receive special education services.\n\nSOCIAL HISTORY: The patient was described as being able to make and keep friends, but at this point in time, there has been no teasing regarding smell from the encopresis. He does have kids over to play at the house.\n\nPREVIOUS COUNSELING: Denied.\n\nDIAGNOSTIC SUMMARY AND IMPRESSION: My impression is that the patient has a long history of constipation and impaction, which has been treated medically, but it would appear that the mother has not followed through consistently with the behavioral component of toilet sitting, increased fiber, regular medication, so that the problem has likely continued. She also has not used any sort of rewards as a way to encourage him, in the encopresis. The patient clearly qualifies for a diagnosis of disruptive behavior disorder, not otherwise specified, and possibly oppositional defiant disorder. It would appear that mother needs help in her parenting, and that she tends to mostly use yelling and anger as a way, and tends to repeat herself a lot, and does not have a strategy for how to follow through and to deal with defiant behavior. Also, mother and father, may not be on the same page in terms of parenting.\n\nPLAN: In terms of my plan, I will meet with the child in the next couple of weeks. I also asked the mother to bring the father in, so he could be involved in the treatment also, and I gave the mother a behavioral checklist to be completed by herself and the father as well as the teacher.\n\nDSM IV DIAGNOSES:\nAXIS I: Adjustment disorder with disturbance of conduct (309.3). Encopresis, without constipation, overflow incontinence (307.7)\nAXIS II: No diagnoses (V71.09).\nAXIS III: No diagnoses.\nAXIS IV: Problems with primary support group.\nAXIS V: Global assessment of functioning equals 65.",
+      "title": ""
+    },
+    "id": 4
+  }
+]
