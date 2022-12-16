@@ -1,9 +1,9 @@
 node {
     checkout scm
-        docker.image("justb4/jmeter:5.5").inside('-u root') {
+        docker.image("egaillardon/jmeter:latest").inside('-u root') {
             stage('jmeter-test') {
                 sh '''
-                jmeter -n -t tests/jmeter/LoadTestJmeter.jmx -l projectNames.csv  -JThreadNumber=5 -JRampUpPeriod=15 -JURL=3.84.29.239  
+                jmeter -n -t tests/jmeter/LoadTestJmeter.jmx -JIP=34.201.41.154 -JuserName=admin -Jpassword=1e8cec3813f6ef0f2414 -l tests/jmeter/projectNames.csv
                 '''
             }
 
@@ -15,3 +15,4 @@ node {
                     notFailBuild: true,
                     deleteDirs: true)
 }
+
