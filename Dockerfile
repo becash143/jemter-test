@@ -1,4 +1,4 @@
-FROM java:8
+FROM openjdk:21-jdk
  
 RUN wget http://mirror.nbtelecom.com.br/apache//jmeter/binaries/apache-jmeter-3.2.tgz
 RUN tar -xvzf apache-jmeter-3.2.tgz
