@@ -15,19 +15,19 @@
         <collectionProp name="Arguments.arguments">
           <elementProp name="secret" elementType="Argument">
             <stringProp name="Argument.name">secret</stringProp>
-            <stringProp name="Argument.value">ec569f98-9e28-fc91-f0de-a0bdc6b305b2</stringProp>
+            <stringProp name="Argument.value">010e4d07-1f60-218d-0ed5-b94b7918c53c</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
             <stringProp name="Argument.desc">secret key</stringProp>
           </elementProp>
           <elementProp name="password" elementType="Argument">
             <stringProp name="Argument.name">password</stringProp>
-            <stringProp name="Argument.value">5c061f40d1c0ee27c77e</stringProp>
+            <stringProp name="Argument.value">a65a510bcdf00848117e</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
             <stringProp name="Argument.desc">password of admin</stringProp>
           </elementProp>
           <elementProp name="ip" elementType="Argument">
             <stringProp name="Argument.name">ip</stringProp>
-            <stringProp name="Argument.value">44.195.37.172</stringProp>
+            <stringProp name="Argument.value">54.161.217.23</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
             <stringProp name="Argument.desc">IP of the machine</stringProp>
           </elementProp>
@@ -249,6 +249,10 @@
           </HeaderManager>
           <hashTree/>
         </hashTree>
+        <ConstantTimer guiclass="ConstantTimerGui" testclass="ConstantTimer" testname="Constant Timer" enabled="true">
+          <stringProp name="ConstantTimer.delay">1000</stringProp>
+        </ConstantTimer>
+        <hashTree/>
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="updateProjectName: ${name}" enabled="true">
           <boolProp name="HTTPSampler.postBodyRaw">true</boolProp>
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
@@ -899,7 +903,7 @@
         </ResultCollector>
         <hashTree/>
       </hashTree>
-      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="DeleteStressTest" enabled="true">
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="DeleteStressTest" enabled="false">
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
         <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
           <boolProp name="LoopController.continue_forever">false</boolProp>
